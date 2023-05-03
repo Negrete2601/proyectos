@@ -177,8 +177,8 @@
         <p>Al registrar sus datos nos pondremos con contacto con usted vía correo electronico</p>
       </div>
       <div class="modal-footer">
-        <a type="button" class="btn btn-default" href="?c=Usuario&a=Crud">Aceptar</a>
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <a type="button" class="btn btn-info" href="?c=Usuario&a=Crud">Aceptar</a>
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>
