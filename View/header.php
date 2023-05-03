@@ -24,7 +24,7 @@
                <!-- CALENDAR --> 
         <link rel="stylesheet" type="text/css" href="jquery-ui-1.13.2.custom/jquery-ui.min.css">
         <script src="jquery-ui-1.13.2.custom/jquery-ui.min.js"></script>
-
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
 
         <!---DATA TABLE --->
