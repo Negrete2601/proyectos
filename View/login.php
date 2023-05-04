@@ -1,26 +1,27 @@
 	<body class="login-layout">
-		<div class="main-container">
+		<div class="fondologin">
 			<div class="main-content">
+				<br>
+				<br>
+				<br>
 				<div class="row">
 					<div class="col-sm-10 col-sm-offset-1">
 						<div class="login-container">
-							<div class="center">
-								<h1>
-									<i class="ace-icon fa fa-leaf green"></i>
-									<span class="blue">Magic</span>
-									<span class="blue" id="id-text2">Soft</span>
-								</h1>
-								<h4 class="blue" id="id-company-text">Iniciar Sesión</h4>
-							</div>
-
 							<div class="space-6"></div>
 
 							<div class="position-relative">
 								<div id="login-box" class="login-box visible widget-box no-border">
 									<div class="widget-body">
 										<div class="widget-main">
+									<div class="center">
+										<h1>
+									<span class="blue">Magic</span>
+									<span class="blue" id="id-text2">Soft</span>
+								</h1>
+								<h4 class="blue" id="id-company-text">Iniciar Sesión</h4>
+							</div>
 											<h4 class="header blue lighter bigger">
-												<i class="ace-icon fa fa-coffee green"></i>
+												
 												Por favor, ingresa tu información.
 											</h4>
 
@@ -30,14 +31,14 @@
 												<fieldset>
 													<label class="block clearfix">
 														<span class="block input-icon input-icon-right">
-															<input id="usuario" type="text" class="form-control" placeholder="Username" />
+															<input id="usuario" type="text" class="form-control" placeholder="Usuario" />
 															<i class="ace-icon fa fa-user"></i>
 														</span>
 													</label>
 
 													<label class="block clearfix">
 														<span class="block input-icon input-icon-right">
-															<input id="contrase" type="password" class="form-control" placeholder="Password" />
+															<input id="contrase" type="password" class="form-control" placeholder="Contraseña" />
 															<i class="ace-icon fa fa-lock"></i>
 														</span>
 													</label>
@@ -93,6 +94,12 @@
 			</div><!-- /.main-content -->
 		</div><!-- /.main-container -->
 
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 		<!-- basic scripts -->
 
 		<!--[if !IE]> -->

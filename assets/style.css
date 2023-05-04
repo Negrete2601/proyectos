@@ -283,10 +283,10 @@ margin-right: 10%;
 .nav.nav-pills.padding-12 {
     padding-left: 12px;
 }
-.tab-content {
+.tab-contenido {
     border: 1px solid #C5D0DC;
     padding: 16px 12px;
-    position: relative;
+  
 }
 
 .widget-box {
@@ -379,4 +379,8 @@ margin-right: 10%;
 .ui-slider-red .ui-slider-range
 {
   background-color: #D36E6E;
+}
+.fondologin
+{
+  background-color: rgb(196, 222, 244);
 }

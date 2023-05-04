@@ -3,7 +3,7 @@
             <!--- inicia carpeta --->
                 <h1><i class="fa-solid fa-users"></i> Usuarios</h1>
                 <div class="tabbable">
-                    <ul class="nav nav-pills padding-12 tab-color-blue background-blue" id="myTab4">
+                    <ul class="nav nav-tabs padding-12 tab-color-blue background-blue" id="myTab4">
                     <li class="active">
                     <a data-toggle="tab" href="#home4">Nombre y Correo</a>
                     </li>
@@ -65,8 +65,8 @@
         <p>Esta seguro de agregar un nuevo usuario</p>
       </div>
       <div class="modal-footer">
-        <a type="button" class="btn btn-default" href="?c=Usuario&a=Crud">Aceptar</a>
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <a type="button" class="btn btn-info" href="?c=Usuario&a=Crud">Aceptar</a>
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -104,7 +104,7 @@
                         </div>
                         <div class="modal-footer">
                             <button type="button" onclick="" class="btn btn-primary" data-dismiss="modal">Guardar</button>
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Cancelar</button>
                         </div>
                     </div>
                 </div>

@@ -26,7 +26,7 @@
   <br>
   <br>
   <br>
-  <button type="button" class="btn btn-block active animate__animated animate__flash animate__delay-1s animate__infinite animate__slow" id="modalu">Cotizar Proyecto</button>
+  <button type="button" class="btn btn-primary btn-block active animate__animated animate__flash animate__delay-1s animate__infinite animate__slow" id="modalu">Cotizar Proyecto</button>
   </div>
     <div class="c2">
   <img src="img/desarrollo.png" class="titulos animate__animated animate__backInLeft" style="width:100%">
